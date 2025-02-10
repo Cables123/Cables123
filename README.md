@@ -1,11 +1,11 @@
 <h1 align="center">Hello World!👋 I'm Victor Redel</h1>
 <h3 align="center">I'm learning SysAdmin/DevOps, HomeLab entusiat and Hardware Nerd </h3>
 
-💬 What i'm thinking? Virtualization, Netwoking and Development
+💬 What i'm thinking? **Virtualization, Netwoking and Development**
 
-📫 How to reach me: cables2005@gmail.com
+📫 How to reach me: **cables2005@gmail.com**
 
-⚡ What i'm running on my homelab: One server with an E5-2680v4 and RTX 2070 for LLM and Hosting and a PfSense Custom Box
+⚡ What i'm running on my homelab: **One server with an E5-2680v4 and RTX 2070 for LLM and Hosting and a PfSense Custom Box**
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
