@@ -5,7 +5,7 @@
 
 📫 How to reach me: **cables2005@gmail.com**
 
-⚡ What i'm running on my homelab: **One server with an E5-2680v4 and RTX 2070 for LLM and Hosting and a PfSense Custom Box**
+⚡ What i'm running on my homelab: **One server with an E5-2680v4 and RTX 2070 for LLM and Hosting and UCG Ultra**
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
