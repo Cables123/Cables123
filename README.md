@@ -1,5 +1,5 @@
 <h1 align="center">Hello World I'm Victor Redel</h1>
-<h3 align="center">I'm learning SysAdmin/DevOps, HomeLab entusiat and Hardware Nerd </h3>
+<h3 align="center">I'm learning SysAdmin/NetEng, HomeLab entusiat and Hardware Nerd </h3>
 
 💬 What i'm thinking? **Virtualization, Netwoking and Development**
 
