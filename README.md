@@ -1,11 +1,11 @@
-<h1 align="center">Hello World!👋 I'm Victor Redel</h1>
+<h1 align="center">Hello World I'm Victor Redel</h1>
 <h3 align="center">I'm learning SysAdmin/DevOps, HomeLab entusiat and Hardware Nerd </h3>
 
 💬 What i'm thinking? **Virtualization, Netwoking and Development**
 
 📫 How to reach me: **cables2005@gmail.com**
 
-⚡ What i'm running on my homelab: **One server with an E5-2680v4 w/128Gb Ram for Porxmox, UCG Ultra for networking, and a custom TrueNAS Box **
+⚡ What i'm running on my homelab: **One server with an E5-2680v4 w/128Gb Ram for Porxmox, UCG Ultra for networking, and a custom TrueNAS Box**
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
