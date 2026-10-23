@@ -3,7 +3,7 @@
 
 💬 What i'm thinking? **Virtualization, Netwoking and Development**
 
-📫 How to reach me: **cables2005@gmail.com**
+📫 How to reach me: **goldengaster5@gmail.com**
 
 ⚡ What i'm running on my homelab: **One server with an E5-2680v4 w/128Gb Ram for Porxmox, UCG Ultra for networking, and a custom TrueNAS Box**
 
