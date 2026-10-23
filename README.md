@@ -6,13 +6,3 @@
 📫 How to reach me: **goldengaster5@gmail.com**
 
 ⚡ What i'm running on my homelab: **One server with an E5-2680v4 w/128Gb Ram for Porxmox, UCG Ultra for networking, and a custom TrueNAS Box**
-
-<h3 align="left">Tech Skills:</h3>
-<div >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="60" height="60"/>
-</div>
-<h3 align="left">Actually Learning:</h3>
-<div >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" alt="TypeScript" width="60" height="60"/>
-</div>
