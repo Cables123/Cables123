@@ -7,11 +7,6 @@
 
 ⚡ What i'm running on my homelab: **One server with an E5-2680v4 w/128Gb Ram for Porxmox, UCG Ultra for networking, and a custom TrueNAS Box**
 
-<h3 align="left">Social Media:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="WIP" height="30" width="60" /></a>
-</p>
-
 <h3 align="left">Tech Skills:</h3>
 <div >
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
